@@ -63,8 +63,7 @@ header{
     justify-content: center;
     align-items: center;
     height: 550px;
-    margin-bottom: 3em;
-    
+    margin-bottom: 3em; 
 }
 
 .jumbotron{
@@ -122,8 +121,7 @@ p{
     justify-content: center;
     background-color: rgba(128, 128, 128, 0.2);
     margin-top: -3px;
-    border-color: aliceblue;
-    
+    border-color: aliceblue; 
 }
 
 .section-item1{
