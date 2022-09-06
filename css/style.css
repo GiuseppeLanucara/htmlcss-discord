@@ -250,33 +250,30 @@ li{
     font-weight: 500;
 }
 
-.foot-buttons{
-    margin-top: 3px;
-    height: 100px;
-    background-color: rgb(36, 34, 34);
+.credits{
+    background-color: #23272A;
+    width: 100%;
     display: flex;
-    align-items: flex-end;
     justify-content: center;
 }
 
-.buttons-container{
-    width: 60%;
-    height: 60px;
-    background-color: aquamarine;
+.logobutton{
+    width: 56%;
+    border-top: 1px solid #7289DA;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-
+    align-items: flex-start;
 }
 
-.info-foot{
-    background-color: pink;
-    width: 50px;
-    height: 20px;
-    border: 1px solid black;
+#final-logo{
+    margin-top: 0.7em;
+    margin-bottom: 1em;
 }
 
-
-
-
-
+#final-button{
+    margin-top: 0.7em;
+    margin-bottom: 1em;
+    background-color: #7289DA;
+    color: white;
+    font-weight: bold;
+}
