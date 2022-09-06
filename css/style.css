@@ -113,7 +113,6 @@ p{
     justify-content: center;
     align-items: center;
     background-color: white;
-    padding: 
 }
 
 .reverse{
@@ -155,7 +154,6 @@ p{
     width: 60%;
     justify-self: center;
     text-align: center;
-
 }
 
 .last-section{
@@ -195,26 +193,61 @@ h3{
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    background-color: rgb(36, 34, 34);
-    height: 600px;
+    background-color: #23272A;
 }
 
 #grande{
-    background-color: aqua;
     width: 20%;
-    border: 2px solid black;
     margin-top: 50px;
-    height: 400px;
     margin-left: 100px;
+}
 
+#grande>h2{
+    margin-top: 10px;
+    color: #7289DA;
+    margin-bottom: 0.7em;
+    font-size: 2em;
+}
+
+#ita{
+    width: 20px;
+    height: 15px;
+}
+
+#language{
+    color: white;
+}
+
+#arrow{
+    color: white;
+}
+
+i{
+  margin-right: 1em;
+  margin-top: 1em;
+  color: white;
 }
 
 .col{
-    height: 400px;
     width: 10%;
-    background-color: pink;
-    border: 2px solid black;
     margin-top: 50px;
+    margin-bottom: 5em;
+}
+
+ul{
+    margin-top: 1.1em;
+    margin-bottom: 1em;
+    color: #7289DA;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+li{
+    margin-top: 0.5em;
+    color: white;
+    font-weight: 500;
 }
 
 .col.ultima{
@@ -246,3 +279,8 @@ h3{
     height: 20px;
     border: 1px solid black;
 }
+
+
+
+
+
