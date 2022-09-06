@@ -63,6 +63,7 @@ header{
     justify-content: center;
     align-items: center;
     height: 550px;
+    margin-bottom: 3em;
     
 }
 
@@ -112,7 +113,7 @@ p{
     justify-content: center;
     align-items: center;
     background-color: white;
-    padding: 3.2em;
+    padding: 
 }
 
 .reverse{
@@ -121,6 +122,8 @@ p{
     align-items: center;
     justify-content: center;
     background-color: rgba(128, 128, 128, 0.2);
+    margin-top: -3px;
+    border-color: aliceblue;
     
 }
 
@@ -145,18 +148,18 @@ p{
     background-color: rgba(128, 128, 128, 0.2);
     justify-content: center;
     align-content: center;
+    margin-top: -3px;
 }
 
 .big-section{
     width: 60%;
-    align-self: flex-end;
     justify-self: center;
     text-align: center;
 
 }
 
 .last-section{
-    background-color: rgba(128, 128, 128, 0.2);
+    background-color: #80808033;
     display: flex;
     align-content: center;
     justify-content: center;
@@ -187,9 +190,6 @@ h3{
     font-weight: 700;
     border-radius: 2em;
 }
-
-
-
 
 .foot-container{
     display: flex;
