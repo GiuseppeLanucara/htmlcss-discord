@@ -9,6 +9,10 @@
     font-family: 'Whitney Light', sans-serif;
 }
 
+img{
+    max-width: 100%;
+}
+
 nav{
     background-color: #255EE9;
     display: flex;
